@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22" started-at="2017-12-26T10:25:38Z" finished-at="2017-12-26T10:25:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22" started-at="2017-12-26T10:25:38Z" finished-at="2017-12-26T10:25:38Z">
+      <class name="com.linge.demo.Ngone">
+        <test-method status="PASS" signature="ssTest()[pri:0, instance:com.linge.demo.Ngone@7946e1f4]" name="ssTest" duration-ms="10" started-at="2017-12-26T18:25:38Z" finished-at="2017-12-26T18:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ssTest -->
+      </class> <!-- com.linge.demo.Ngone -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
